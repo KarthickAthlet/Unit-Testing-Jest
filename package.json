@@ -1,0 +1,14 @@
+{
+  "name": "jest-unit-testing",
+  "version": "1.0.0",
+  "description": "testing javascript application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "karthikeyan palanisamy",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
